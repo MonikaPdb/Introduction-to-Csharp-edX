@@ -1,0 +1,7 @@
+C:\Users\monik\Desktop\IT\edX\Csharp\Introduction to Csharp\projects\Mod1_Lab2_variable_types\Mod1_Lab2_variable_types\obj\Debug\Mod1_Lab2_variable_types.csprojResolveAssemblyReference.cache
+C:\Users\monik\Desktop\IT\edX\Csharp\Introduction to Csharp\projects\Mod1_Lab2_variable_types\Mod1_Lab2_variable_types\obj\Debug\Mod1_Lab2_variable_types.csproj.CoreCompileInputs.cache
+C:\Users\monik\Desktop\IT\edX\Csharp\Introduction to Csharp\projects\Mod1_Lab2_variable_types\Mod1_Lab2_variable_types\bin\Debug\Mod1_Lab2_variable_types.exe.config
+C:\Users\monik\Desktop\IT\edX\Csharp\Introduction to Csharp\projects\Mod1_Lab2_variable_types\Mod1_Lab2_variable_types\bin\Debug\Mod1_Lab2_variable_types.exe
+C:\Users\monik\Desktop\IT\edX\Csharp\Introduction to Csharp\projects\Mod1_Lab2_variable_types\Mod1_Lab2_variable_types\bin\Debug\Mod1_Lab2_variable_types.pdb
+C:\Users\monik\Desktop\IT\edX\Csharp\Introduction to Csharp\projects\Mod1_Lab2_variable_types\Mod1_Lab2_variable_types\obj\Debug\Mod1_Lab2_variable_types.exe
+C:\Users\monik\Desktop\IT\edX\Csharp\Introduction to Csharp\projects\Mod1_Lab2_variable_types\Mod1_Lab2_variable_types\obj\Debug\Mod1_Lab2_variable_types.pdb
